@@ -11,7 +11,8 @@ module.exports = {
         'gid-col' : '#8661ef',
         't-com' : '#dccc7b',
          'navColor':'#796139',
-      'm-col' : '#f8f7f4'
+      'm-col' : '#f8f7f4',
+      "but-col" : "#B8A058"
       },
       width:{
         'edwdith':"100%",
@@ -19,7 +20,8 @@ module.exports = {
         'insideBox':'25rem',
         'buttonww':'auto', 
         'myWidth':"500px",
-        'cardWidth':'300px'
+        'cardWidth':'300px',
+        'bckwidth' : '-20px'
       },
       height: {
         'edheight':"100%",
@@ -36,7 +38,23 @@ module.exports = {
       },
       margin: {
         'dtop': '-180px',
-      }
+      },
+        screens: {
+      'sm': '320px',
+      // => @media (min-width: 640px) { ... }
+
+      'md': '578px',
+      // => @media (min-width: 768px) { ... }
+
+      'lg': '766px',
+      // => @media (min-width: 1024px) { ... }
+
+      'xl': '1024px',
+      // => @media (min-width: 1280px) { ... }
+
+      '2xl': '1683px',
+      // => @media (min-width: 1536pxs) { ... }
+    },
     },
   },
   plugins: [],

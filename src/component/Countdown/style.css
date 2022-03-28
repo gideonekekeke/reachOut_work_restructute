@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+  text-align: center;
+  
+  z-index: 100;
+  padding-bottom : 20px;
+  /* background : red; */
+  flex-wrap : wrap;
+  width : 500px
+  
+}
+
+.time {
+  font-size: 32px;
+  color : #dccc7b
+  
+}

@@ -69,7 +69,7 @@ const CardProps = () => {
 
   return (
     <div className = 'flex justify-center items-center flex-col'>
-      <div className = 'font-bold  text-pink-700 text-2xl'>Impact & Initiatives</div>
+      <div className = 'font-bold  text-but-col text-2xl'>Impact & Initiatives</div>
       <p>Rhapsody Impacts</p>
       <br/>
       

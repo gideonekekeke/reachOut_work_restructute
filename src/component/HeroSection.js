@@ -25,7 +25,7 @@ REACHOUT WORD
             </div>
          
     <div class=" z-30 rounded-md shadow  mt-5 ">
-              <a href="#" class="w-52 h-11 flex items-center justify-center px-8 py-3 border border-transparent text-sm font-medium rounded-md text-t-com border border-t-com    hover:bg-t-com hover:bg-white hover:text-black md:py-2 md:text-sm md:px-5"> TAKE ACTION </a>
+              <a href="#" class="w-52 h-11 flex items-center justify-center px-8 py-3 border border-transparent text-sm font-medium rounded-md text-t-com border border-but-col    hover:bg-t-com hover:bg-white hover:text-black md:py-2 md:text-sm md:px-5"> TAKE ACTION </a>
             </div> 
               
   <video
