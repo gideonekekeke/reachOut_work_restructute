@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg path:hover {
+  fill: #8661e3;
+  transition: 0.6s;
+  cursor: pointer;
+}

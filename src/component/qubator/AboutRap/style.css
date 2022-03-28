@@ -1,0 +1,14 @@
+.mainT{
+    width : 600px;
+    margin-left : 20px;
+    color : #886866
+}
+
+@media only screen and (max-width : 600px){
+ .mainT{
+   
+     width :100%;
+     margin-left : -17px
+     
+ }
+}
